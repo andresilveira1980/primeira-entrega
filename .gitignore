@@ -1,0 +1,31 @@
+# Ignorar arquivos ZIP
+*.zip
+
+# Ignorar diretórios específicos
+DADOS/
+LEIA-ME E DOCUMENTOS TÉCNICOS/
+PROVAS E GABARITOS/
+DICION╡RIO/
+INPUTS/
+
+# Ignorar arquivos gerados por Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+*.virtualenv
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos gerados por Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos de configurações locais e do sistema operacional
+.env
+*.DS_Store
+*.swp
+*.swo
+Thumbs.db
