@@ -26,3 +26,19 @@ O projeto contém os seguintes arquivos:
    ```bash
    git clone https://github.com/andresilveira1980/primeira-entrega 
    cd /primeira-entrega 
+
+
+## Configuração do Visual Studio Code
+
+Para otimizar o desempenho do Visual Studio Code para este projeto, recomendamos configurar o seguinte:
+
+* **`files.maxMemoryForLargeFilesMB`:** Aumentar esse valor para 8192 MB (ou mais, dependendo da sua máquina) permite que o editor handle arquivos grandes de forma mais eficiente, como bases de código extensas ou conjuntos de dados massivos.
+
+**Opção 2: Para um público menos técnico:**
+
+```markdown
+## Dicas para usar o Visual Studio Code
+
+Para ter uma melhor experiência com este projeto, siga estas dicas:
+
+* **Ajuste o uso de memória:** O VS Code pode ser configurado para usar mais memória, o que é útil para trabalhar com arquivos grandes. Para fazer isso, acesse as configurações do VS Code e procure por "files.maxMemoryForLargeFilesMB". Aumente esse valor para melhorar o desempenho.
