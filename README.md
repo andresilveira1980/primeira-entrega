@@ -15,8 +15,7 @@ O projeto contém os seguintes arquivos:
 
 - **`DADOS/MICRODADOS_ENEM_2023.csv`**: Arquivo CSV contendo os dados do ENEM 2023.
 - **`README.md`**: Este arquivo de documentação.
-- **`script.py`**: O script Python que carrega e exibe os dados.
-
+- **microdados_enem_2023.ipynb**: Script em Python/JupiterNotebook
 ## Como Rodar o Projeto
 
 1. **Clone o repositório**:
